@@ -1,6 +1,6 @@
 # Mostra programas que iniciam com o Windows e permite desabilitar
 
-Write-Host "Listando aplicativos na inicialização..." -ForegroundColor Cyan
+Write-Host "Listando aplicativos na inicializacao..." -ForegroundColor Cyan
 $startupApps = Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location
 $startupApps | Format-Table -AutoSize
 
