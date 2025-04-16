@@ -14,7 +14,7 @@ Remove arquivos temporários, cache e libera espaço em disco.
 Executa testes básicos de conectividade: IP, DNS, ping, tracert.
 
 ### `otimizar_inicializacao.ps1`
-Lista e desabilita programas desnecessários na inicialização do Windows.
+Lista e desabilita programas desnecessários na inicialização do Windows.</p>
 ⚠️ Por segurança, este script apenas exibe os apps. Desabilitar via script requer manipulação de registro, que pode ser arriscada.
 
 ---
