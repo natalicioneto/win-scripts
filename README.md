@@ -3,6 +3,8 @@
 Scripts úteis desenvolvidos para manutenção e suporte técnico em máquinas Windows.  
 Ideal para uso em ambientes corporativos ou pessoais.
 
+![script](https://images.hanselman.com/blog/zisamazing2.gif)
+
 ## 🔧 Scripts disponíveis
 
 ### `limpar_temp.ps1`
